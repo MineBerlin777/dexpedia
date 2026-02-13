@@ -1,1 +1,3 @@
-# dexpedia
+# Home
+
+Welcome to Dexpedia
